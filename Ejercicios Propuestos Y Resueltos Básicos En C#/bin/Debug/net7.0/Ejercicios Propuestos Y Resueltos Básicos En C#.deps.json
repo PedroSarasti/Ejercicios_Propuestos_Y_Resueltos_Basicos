@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ejercicios Propuestos Y Resueltos Básicos En C#/1.0.0": {
+        "runtime": {
+          "Ejercicios Propuestos Y Resueltos Básicos En C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios Propuestos Y Resueltos Básicos En C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

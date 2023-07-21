@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\bin\Debug\net7.0\Ejercicios Propuestos Y Resueltos Básicos En C#.exe
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\bin\Debug\net7.0\Ejercicios Propuestos Y Resueltos Básicos En C#.deps.json
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\bin\Debug\net7.0\Ejercicios Propuestos Y Resueltos Básicos En C#.runtimeconfig.json
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\bin\Debug\net7.0\Ejercicios Propuestos Y Resueltos Básicos En C#.dll
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\bin\Debug\net7.0\Ejercicios Propuestos Y Resueltos Básicos En C#.pdb
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\obj\Debug\net7.0\Ejercicios Propuestos Y Resueltos Básicos En C#.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\obj\Debug\net7.0\Ejercicios Propuestos Y Resueltos Básicos En C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\obj\Debug\net7.0\Ejercicios Propuestos Y Resueltos Básicos En C#.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\obj\Debug\net7.0\Ejercicios Propuestos Y Resueltos Básicos En C#.AssemblyInfo.cs
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\obj\Debug\net7.0\Ejercicios Propuestos Y Resueltos Básicos En C#.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\obj\Debug\net7.0\Ejercicios Propuestos Y Resueltos Básicos En C#.dll
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\obj\Debug\net7.0\refint\Ejercicios Propuestos Y Resueltos Básicos En C#.dll
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\obj\Debug\net7.0\Ejercicios Propuestos Y Resueltos Básicos En C#.pdb
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\obj\Debug\net7.0\Ejercicios Propuestos Y Resueltos Básicos En C#.genruntimeconfig.cache
+C:\Users\User\source\repos\Ejercicios Propuestos Y Resueltos Básicos En C#\Ejercicios Propuestos Y Resueltos Básicos En C#\obj\Debug\net7.0\ref\Ejercicios Propuestos Y Resueltos Básicos En C#.dll
